@@ -1,6 +1,5 @@
 package com.cg.dyone;
 
-import java.security.PublicKey;
 
 public class Constructor {
 
